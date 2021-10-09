@@ -17,7 +17,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/xluu0008/FIT3179/main/homework9.csv"
+          "url": "https://raw.githubusercontent.com/xluu0008/homework9/main/choropleth/data/homework9.csv"
         },
         "key": "Country",
         "fields": ["Vaccinations"]
